@@ -1,0 +1,7 @@
+:HL["/akb-heritage-preview/_next/static/chunks/3f92og_qbksw4.css","style"]
+:HL["/akb-heritage-preview/uploads/2025/06/dsc0573-2-1920.webp","image",{"imageSrcSet":"/akb-heritage-preview/uploads/2025/06/dsc0573-2-640.webp 640w, /akb-heritage-preview/uploads/2025/06/dsc0573-2-1280.webp 1280w, /akb-heritage-preview/uploads/2025/06/dsc0573-2-1920.webp 1920w","imageSizes":"100vw","fetchPriority":"high"}]
+:HL["/akb-heritage-preview/brand/logo-akb-heritage-blanc.png","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"oc","k":"en/dialogue-ethiopie-unesco-dans-le-cadre-de-l-etude-de-faisabilite-pour-la-preservation-la-restauration-et-la-mise-en-valeur-des-eglises-de-lalibela-expertise-france-ethiopie","s":["admin","api"]},"h":65648,"c":"$Q3"}]]
+1:[["children",{"s":"(site)","h":131184,"c":"$Q2"}]]
+0:{"b":"hyvpyvfm9cWJoQbvgLjh6","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

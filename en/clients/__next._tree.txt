@@ -1,0 +1,6 @@
+:HL["/akb-heritage-preview/_next/static/chunks/3f92og_qbksw4.css","style"]
+:HL["/akb-heritage-preview/brand/logo-akb-heritage-blanc.png","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"oc","k":"en/clients","s":["admin","api"]},"h":65648,"c":"$Q3"}]]
+1:[["children",{"s":"(site)","h":131184,"c":"$Q2"}]]
+0:{"b":"hyvpyvfm9cWJoQbvgLjh6","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
